@@ -3,7 +3,12 @@
 heyy! Welcome to all
 
 
-First ever portofolio !!!
+This is my first ever portofolio !!!
+
+
+let me give a short introduction of me!!
+I studies in NIE, Mysore and now working in Attentionkart, Mysore.
+
 
 for now, I know:
 1. javaScript
